@@ -139,7 +139,7 @@ body {
 
 }
 
-.apresentacao__links__navegacao {
+.apresentacao__links__navegacao:hover {
     background-color:var(--cor--hover--primaria);
     font-weight: 500;
 
